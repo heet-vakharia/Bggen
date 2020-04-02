@@ -80,6 +80,9 @@ html,body{
         font-size: 2rem;
         letter-spacing: 0;
     }
+    .main__bgIndicator{
+        font-size: 1.5rem;
+    }
   }
   @media only screen and (max-width : 300px){
     .main__heading--big{
