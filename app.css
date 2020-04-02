@@ -81,8 +81,7 @@ html,body{
         letter-spacing: 0;
     }
     .main__bgIndicator{
-        font-size: 1
-            rem;
+        font-size: 1rem;
     }
   }
   @media only screen and (max-width : 300px){
